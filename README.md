@@ -1,6 +1,6 @@
 ### Olá como vai? Sou Johnatan! 👋
 
-## Tenho 20 anos, moro em São Paulo capital e sou desenvolvedor Front-end!
+## Tenho 21 anos, moro em São Paulo capital e sou desenvolvedor Front-end!
 - 🔭 Atualmente estou procurando por um emprego.
 - 🌱 Estou sempre em busca de novos conhecimentos, aprimorar os que já possuo. Tanto sobre Front-End quanto Back-End 🙃
 - 💨 Objetivo de 2020/2021: É aprender React/React Native e conseguir um emprego.
