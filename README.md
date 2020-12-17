@@ -10,7 +10,6 @@
 ### Entre em contato comigo:
 
 - LinkedIn: https://www.linkedin.com/in/johnatan-accourt-93937a19a/
-- Instagran: https://www.instagram.com/johll_99/
 
 <br />
 
